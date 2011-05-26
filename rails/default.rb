@@ -23,6 +23,8 @@ gem "mysql2", "< 0.3"
 gem "jquery-rails"
 gem "dynamic_form"
 gem "will_paginate", "~> 3.0.pre2"
+gem 'rake', '~> 0.8.7'
+gem 'advanced_scaffold'
 GEMFILE
 
 create_file '.gitignore', <<-GITIGNORE
